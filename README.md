@@ -5,10 +5,41 @@
 Plataforma para creacion de aplicaciones en BPM(Bussiness Process Management) con
 estandares BPMN 2.0.
 
+## ESTRUCTURA
+
+### Bonita Studio
+
+Para la fase de Desarrollo de los proyectos
+
+### Bonita Runtime
+
+Para correr varios procesos con la maquina BPM y las aplicaciones
+Tomcat, aplicaciones desarrolladas en Bonita, Bonita Engine y base de datos h2.
+
+##### Bonita Administrator Application
+
+Para instalar, desplegar y administrar procesos
+
+##### Bonita Super Administrator
+
+Configurar el ambiente Bonita Runtime con modelos de bases de datos del negocio
+y aplicaciones
+
+##### Directorio de Aplicacion 
+
+Contiene los usuarios de Bonita y los accesos a las aplicaciones que poseen
+
+### Bonita Continous Delivery
+
+Para facilitar los despliegues constantes de los proyectos de un ambiente a otro.
+Solamente si existe subscripcion es decir cuentas premium
+
 
 ## PARA QUE SIRVE ?
 
-* Modela tus procesos con ayuda de la norma BPMN 2.0 (Business Process Model and Notation)
+* Modela tus procesos con ayuda de la norma BPMN 2.0 (Business Process Model and Notation). 
+
+* Diseña los procesos gracias a una interfaz grafica que permite diagramar. 
 
 * Gestiona datos completos a través del gestor de datos de negocio. Donde tienes menores tiempos de carga, mejor visualización en forma de formularios y ausencia de interrupciones.
 
@@ -36,6 +67,25 @@ Crea interfaces de usuario final cuando el portal predefinido no te ofrezca lo q
 
 * Conexiones con sistemas de informacion como CRM, ECM, ERP, bases de datos, plataformas sociales, servicios web.
 
-## LINK PARA DESCARGA BONITA COMMUNITY
 
-[Bonita Community](https://community.bonitasoft.com/)
+## LINK PARA DOCUMENTACION BONITA COMMUNITY
+[Documentacion Bonita](https://documentation.bonitasoft.com/bonita/latest/)
+
+## LINK INSTALACION BONITA STUDIO
+
+[Descargar Bonita Studio](https://www.bonitasoft.com/downloads)
+
+## PASOS PARA SUBIR PROYECTO BONITABPM EN REPOSITORIO GITHUB
+
+### Paso 1
+
+Clic en la opcion del menu superior llamado "Equipo"
+
+![](/img/imagen1.png)
+
+## PASOS PARA CLONAR Y UTILIZAR REPOSITORIO CON PROYECTO BONITABPM
+
+
+
+
+
