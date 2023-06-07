@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<businessObjectModel xmlns="http://documentation.bonitasoft.com/bdm-xml-schema/1.0" modelVersion="1.0" productVersion="7.12.1">
+    <businessObjects>
+        <businessObject qualifiedName="com.company.model.Claim2">
+            <fields>
+                <field type="STRING" length="255" name="description2" nullable="false" collection="false"/>
+                <field type="STRING" length="255" name="answer2" nullable="true" collection="false"/>
+                <field type="STRING" length="255" name="satisfactionLevel2" nullable="true" collection="false"/>
+            </fields>
+            <uniqueConstraints/>
+            <queries/>
+            <indexes/>
+        </businessObject>
+    </businessObjects>
+</businessObjectModel>
