@@ -79,9 +79,25 @@ Crea interfaces de usuario final cuando el portal predefinido no te ofrezca lo q
 
 ### Paso 1
 
-Clic en la opcion del menu superior llamado "Equipo"
+Clic en la opcion del menu superior llamado "Equipo".
 
 ![](/img/imagen1.png)
+
+### Paso 2
+
+Clic en la opcion "Git" y luego clic en la opcion "Compartir con Git".
+
+![](/img/imagen2.png)
+
+### Paso 3
+
+Se desplegara una nueva ventana. Dar clic en boton "Compartir". 
+
+![](/img/imagen3.png)
+
+
+
+
 
 ## PASOS PARA CLONAR Y UTILIZAR REPOSITORIO CON PROYECTO BONITABPM
 
