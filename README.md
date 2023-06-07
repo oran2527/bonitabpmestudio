@@ -137,6 +137,12 @@ Dejar las opciones predefinidas y dar clic en boton "Siguiente"
 
 ![](/img/imagen8.png)
 
+### Paso 9
+
+Digitar el usuario y la contraseña de Github en la nueva ventana.
+
+![](/img/imagen9.png)
+
 
 
 
