@@ -96,6 +96,50 @@ Se desplegara una nueva ventana. Dar clic en boton "Compartir".
 ![](/img/imagen3.png)
 
 
+### Paso 4
+
+Se desplegara una nueva ventana. Dar clic en boton "Commit y push". Se abrira una nueva ventana.
+
+![](/img/imagen4.png)
+
+![](/img/imagen5.png)
+
+
+### Paso 5
+
+Crear un repositorio en Github para guardar el proyecto BonitaBPM.
+
+![video para creacion de repositorio github](https://www.youtube.com/watch?v=dnxdIzF8p3k)
+
+### Paso 6
+
+Copiar la url del repositorio de Github creado para guardar el proyecto BonitaBPM.
+
+![](/img/imagen6.png)
+
+
+### Paso 7
+
+Pegar la informacion copiada en el paso 6 en el campo "URI" de la ventana de BonitaBPM del paso 4. Esto autocompletara los campos "Nodo" y "Ruta del repositorio".
+
+Los campos "Protocolo" y "Puerto" no deben ser diligenciados.
+
+Los campos "Usuario" y "Contraseña" son el usuario y contraseña de la cuenta de Github y son opcionales.
+
+Clic en boton "Siguiente".
+
+
+![](/img/imagen7.png)
+
+### Paso 8
+
+Dejar las opciones predefinidas y dar clic en boton "Siguiente"
+
+![](/img/imagen8.png)
+
+
+
+
 
 
 
