@@ -109,7 +109,7 @@ Se desplegara una nueva ventana. Dar clic en boton "Commit y push". Se abrira un
 
 Crear un repositorio en Github para guardar el proyecto BonitaBPM.
 
-![video para creacion de repositorio github](https://www.youtube.com/watch?v=dnxdIzF8p3k)
+[video para creacion de repositorio github](https://www.youtube.com/watch?v=dnxdIzF8p3k)
 
 ### Paso 6
 
