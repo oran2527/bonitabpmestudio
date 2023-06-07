@@ -214,13 +214,74 @@ Repetir el paso 9 pero esta vez en el campo "contraseña" utilizar el token del 
 
 ### Paso 21
 
-Se abre una nueva ventana. Dar clic en boton "Finalizar"
+Se abre una nueva ventana. Dar clic en boton "Finalizar".
 
 ![](/img/imagen20.png)
+
+### Paso 22
+
+Repetir el paso 20
+
+### Paso 23
+
+Ir a Github y dar clic en el boton "main".
+
+![](/img/imagen21.png)
+
+### Paso 24
+
+Dar clic en opcion "master".
+
+![](/img/imagen22.png)
+
+### Paso 25
+
+Se visualizaran los archivos del proyecto BonitaBPM.
+
+![](/img/imagen23.png)
 
 
 
 ## PASOS PARA CLONAR Y UTILIZAR REPOSITORIO CON PROYECTO BONITABPM
+
+### Paso 1
+
+Clic en la opcion del menu superior llamado "Equipo".
+
+![](/img/imagen1.png)
+
+### Paso 2
+
+Clic en la opcion "Git" y luego clic en la opcion "Clonar".
+
+![](/img/imagen24.png)
+
+### Paso 3
+
+Copiar la url del repositorio de Github que contiene el proyecto BonitaBPM.
+
+![](/img/imagen6.png)
+
+
+### Paso 4
+
+Pegar la informacion copiada en el paso 3 en el campo "URI" de la ventana de BonitaBPM. Esto autocompletara los campos "Nodo" y "Ruta del repositorio".
+
+Los campos "Protocolo" y "Puerto" no deben ser diligenciados.
+
+Los campos "Usuario" y "Contraseña" son el usuario y contraseña de la cuenta de Github y son opcionales.
+
+Clic en boton "Siguiente".
+
+
+![](/img/imagen7.png)
+
+### Paso 5
+
+Seleccionar unicamente la opcion "master" y dar clic en el boton "Finalizar".
+
+![](/img/imagen25.png)
+
 
 
 
