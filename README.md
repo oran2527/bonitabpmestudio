@@ -133,7 +133,7 @@ Clic en boton "Siguiente".
 
 ### Paso 8
 
-Dejar las opciones predefinidas y dar clic en boton "Siguiente"
+Dejar las opciones predefinidas y dar clic en boton "Siguiente".
 
 ![](/img/imagen8.png)
 
@@ -145,45 +145,78 @@ Digitar el usuario y la contraseña de Github en la nueva ventana.
 
 ### Paso 10
 
+Si no se genera error ir al paso 21.
+
 Si te genera el siguiente error:
 
 ![](/img/imagen10.png)
 
+### Paso 11
 
-Ingresar a Github y dar clic en opcion "Settings"
+
+Ingresar a Github y dar clic en opcion "Settings".
 
 ![](/img/imagen11.png)
 
-Clic en "Developer Settings"
+### Paso 12
+
+
+Clic en "Developer Settings".
 
 ![](/img/imagen12.png)
 
-Clic en "Personal access tokens"
+### Paso 13
+
+
+Clic en "Personal access tokens".
 
 ![](/img/imagen13.png)
 
-Clic en "Tokens (classic)"
+### Paso 14
+
+Clic en "Tokens (classic)".
 
 ![](/img/imagen14.png)
 
-Clic en "Generate new token"
+### Paso 15
+
+Clic en "Generate new token".
 
 ![](/img/imagen15.png)
 
-Clic en "Generate new token (classic)"
+### Paso 16
+
+Clic en "Generate new token (classic)".
 
 ![](/img/imagen16.png)
 
-Coloque un nombre al token en el campo "Note" y seleccione todos las opciones
+### Paso 17
+
+Coloque un nombre al token en el campo "Note" y seleccione todos las opciones.
 
 ![](/img/imagen17.png)
 
-Clic en el boton verde de abajo "Generate token"
+### Paso 18
+
+Clic en el boton verde de abajo "Generate token".
 
 ![](/img/imagen18.png)
 
+### Paso 19
 
+Clic en los cuadritos al lado derecho del token para copiar el token.
 
+![](/img/imagen19.png)
+
+### Paso 20
+
+Repetir el paso 9 pero esta vez en el campo "contraseña" utilizar el token del paso 19.
+
+### Paso 21
+
+Se abre una nueva ventana. Dar clic en boton "Finalizar"
+
+![](/img/imagen20.png)
 
 
 
