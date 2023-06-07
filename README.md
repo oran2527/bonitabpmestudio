@@ -143,6 +143,44 @@ Digitar el usuario y la contraseña de Github en la nueva ventana.
 
 ![](/img/imagen9.png)
 
+### Paso 10
+
+Si te genera el siguiente error:
+
+![](/img/imagen10.png)
+
+
+Ingresar a Github y dar clic en opcion "Settings"
+
+![](/img/imagen11.png)
+
+Clic en "Developer Settings"
+
+![](/img/imagen12.png)
+
+Clic en "Personal access tokens"
+
+![](/img/imagen13.png)
+
+Clic en "Tokens (classic)"
+
+![](/img/imagen14.png)
+
+Clic en "Generate new token"
+
+![](/img/imagen15.png)
+
+Clic en "Generate new token (classic)"
+
+![](/img/imagen16.png)
+
+Coloque un nombre al token en el campo "Note" y seleccione todos las opciones
+
+![](/img/imagen17.png)
+
+Clic en el boton verde de abajo "Generate token"
+
+![](/img/imagen18.png)
 
 
 
