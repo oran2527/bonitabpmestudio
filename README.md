@@ -269,7 +269,7 @@ Pegar la informacion copiada en el paso 3 en el campo "URI" de la ventana de Bon
 
 Los campos "Protocolo" y "Puerto" no deben ser diligenciados.
 
-Los campos "Usuario" y "Contraseña" son el usuario y contraseña de la cuenta de Github y son opcionales.
+Los campos "Usuario" y "Contraseña" son el usuario y contraseña o el token de la cuenta de Github y son opcionales.
 
 Clic en boton "Siguiente".
 
