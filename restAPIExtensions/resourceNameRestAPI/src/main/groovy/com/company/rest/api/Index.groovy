@@ -41,27 +41,36 @@ class Index implements RestApiController {
     @Override
     RestApiResponse doHandle(HttpServletRequest request, RestApiResponseBuilder responseBuilder, RestAPIContext context) {
 		
-		
+		def result2 = []
 		LOGGER.info("Connecting to database... punto 1");
 		// STEP 1: Register JDBC driver
-		Class.forName("org.h2.Driver");
+		//Class.forName("org.h2.Driver");
 		LOGGER.info("Connecting to database... punto 2");
 		LOGGER.info("Connecting to database... punto 2.1");
-		conn = DriverManager.getConnection("jdbc:h2:file:C:/BonitaStudioCommunity-2021.1/workspace/Mi Proyecto/h2_database/business_data.db","sa","");
+		//conn = DriverManager.getConnection("jdbc:h2:file:C:/BonitaStudioCommunity-2021.1/workspace/Mi Proyecto/h2_database/business_data.db","sa","");
 		LOGGER.info("Connecting to database... punto 3");
-		stmt = conn.createStatement();
+		//stmt = conn.createStatement();
 		LOGGER.info("Connecting to database... punto 4");
-		String sql = "select * from claim2"
-		stmt.execute(sql);
+		//String sql = "select * from claim2"
+		//stmt.execute(sql);
 		LOGGER.info("Connecting to database... punto 5");
-        conn.close()
-        
+		def sql = Sql.newInstance("jdbc:h2:file:C:/BonitaStudioCommunity-2021.1/workspace/Mi Proyecto/h2_database/business_data.db","sa","", "org.h2.Driver")
+		LOGGER.info("Connecting to database... punto 6");
+		sql.eachRow('select * from claim2') { row ->
+			def description2 = row.description2
+			def answer2 = row.answer2
+			def satisfactionLevel2 = row.satisfactionLevel2
+			def dict2 = ['description2': description2, 'answer2': answer2, 'satisfactionLevel': satisfactionLevel2] 
+			result2 << dict2
+		}
+        //conn.close()
+        sql.close()
 	
+		LOGGER.info("Connecting to database... punto 7");
 		
+		//def result = ["id": 2, "texto": "hola"]
 		
-		def result = ["id": 2, "texto": "hola"]
-		
-		return buildResponse(responseBuilder, HttpServletResponse.SC_OK, new JsonBuilder(result).toString())
+		return buildResponse(responseBuilder, HttpServletResponse.SC_OK, new JsonBuilder(result2).toString())
 		
 		
     }
