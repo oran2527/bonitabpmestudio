@@ -283,6 +283,19 @@ Seleccionar unicamente la opcion "master" y dar clic en el boton "Finalizar".
 ![](/img/imagen25.png)
 
 
+### Paso 6
+
+Una vez se ha descargado el proyecto, dar clic en el simbolo ">" de la opcion "Modelo de Datos de Negocio" del explorador de proyectos y luego clic en bom.xml.
+
+![](/img/imagen26.png)
+
+### Paso 7
+
+Dar clic en boton "Desplegar".
+
+![](/img/imagen27.png)
+
+
 
 
 
