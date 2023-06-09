@@ -309,6 +309,25 @@ clic sobre la opcion "Establecer como entorno activo".
 ![](/img/imagen29.png)
 
 
+## PASOS PARA EJECUTAR PROYECTO BONITABPM DENTRO DE UN CONTENEDOR DOCKER
+
+### Paso 1
+
+Instalar Docker
+
+[Video para instalar docker](https://www.youtube.com/watch?v=GtLNMRcLlu8)
+
+### Paso 2
+
+
+
+
+
+
+
+
+
+
 
 
 
