@@ -295,6 +295,21 @@ Dar clic en boton "Desplegar".
 
 ![](/img/imagen27.png)
 
+### Paso 8
+
+Dar clic en el simbolo ">" de la opcion "Entornos".
+
+![](/img/imagen28.png)
+
+### Paso 9
+
+Dar clic derecho sobre la opcion de entorno correcta (Consultar con area de Desarrollo) y
+clic sobre la opcion "Establecer como entorno activo".
+
+![](/img/imagen29.png)
+
+
+
 
 
 
